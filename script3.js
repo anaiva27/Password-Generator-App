@@ -27,9 +27,8 @@ var choiceSpecialChar = "";
 function generatePassword(){
     var choiceLength = parseInt(prompt("Enter desired number of characters for Your password between 8 and 128"));
     if (choiceLength <= 7 || choiceLength >= 129 || isNaN(choiceLength))
- {    alert("Please choose a number between 8 and 128")
-  }
-
+{    alert("Please choose a number between 8 and 128")
+}
   else{
  var choiceUpperCase = confirm("Would you like to add upper case letters? Yes or No "); 
  var choiceLowerCase = confirm("Would you like to add lower case letters? Yes or No ");
