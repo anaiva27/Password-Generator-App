@@ -25,13 +25,13 @@ After indicating the criterias that he wants to add, the client receives a passw
 
 Attached below the screenshots of the working applicaton, that is deployed at live URL and loads with no errors.
 First dialog window: 
-[First dialog window](screenshots/211.jpg)
+![First dialog window](screenshots/211.jpg)
 
 The client chooses what types of characters he wants in his password:
-[Second dialog window](screenshots/214.jpg)
+![Second dialog window](screenshots/214.jpg)
 
 The password is generated and ready to be copied.
-[First dialog window](screenshots/213.jpg)
+![First dialog window](screenshots/213.jpg)
 
 
 ## Links
