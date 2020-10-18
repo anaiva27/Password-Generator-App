@@ -23,14 +23,14 @@ First, we have created a file structure with the index page, that contains an ep
 After indicating the criterias that he wants to add, the client receives a password. Once the functions in the file have had been executed, the application will retrieve a series of random numbers and characters from the ASCII code, that would be very difficult to hack.
 
 
-Attached below the screenshots of the working applicaton, that is deployed at live URL and loads with no errors.
-First dialog window: 
+Attached below the screenshots of the working applicaton, that is deployed at live URL and loads with no errors.<br>
+First dialog window: <br>
 ![First dialog window](screenshots/211.jpg)
 
-The client chooses what types of characters he wants in his password:
+The client chooses what types of characters he wants in his password:<br>
 ![Second dialog window](screenshots/214.jpg)
 
-The password is generated and ready to be copied.
+The password is generated and ready to be copied.<br>
 ![First dialog window](screenshots/213.jpg)
 
 
